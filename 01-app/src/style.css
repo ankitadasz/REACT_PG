@@ -1,0 +1,18 @@
+.Todo-Container{
+    width: 500px;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    border: 2px solid black;
+}
+.Head{
+    font-size: 2.5vw;
+}
+.ele{
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
